@@ -6,7 +6,7 @@ A simple reporter for [gulp-htmlhint](https://www.npmjs.com/package/gulp-htmlhin
 ## Installation
 
 ```bash
-$: npm install gulp-htmlhint-html-reporter --save
+npm install gulp-htmlhint-html-reporter --save
 ```
 
 ## Usage
