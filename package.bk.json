@@ -1,0 +1,13 @@
+{
+  "dist": {
+    "shasum": "34a1cf33edb84dbdaeac564226c22834b5b3b4b8",
+    "tarball": "http://registry.npmjs.org/gulp-htmlhint-html-reporter/-/gulp-htmlhint-html-reporter-0.1.3.tgz"
+  },
+  "files": [
+    "index.js",
+    "reporter.js",
+    "templates/"
+  ],
+  "gitHead": "dfc7c47374c75fa24829d2d457e5ebb1996ed6af",
+  "version": "0.1.3"
+}

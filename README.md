@@ -42,11 +42,8 @@ If disabled and the given path contains folders which do not exist, an ENOENT er
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [Ivan Vesely](https://github.com/ivan-vesely)
+[MIT](http://opensource.org/licenses/MIT) © [AppFeel](https://github.com/appfeel)
 
 ## Release History
 
 * 0.1.0 Initial release
-* 0.1.1 Minor fix with configuration
-* 0.1.2 Minor bug fix on htmlhint output file
-* 0.1.3 Add option for create missing folder
