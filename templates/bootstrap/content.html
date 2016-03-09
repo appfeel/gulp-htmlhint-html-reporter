@@ -1,0 +1,29 @@
+<div class="panel panel-warning">
+    <div class="panel-heading" role="tab" id="heading-{acid}">
+        <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-target="#accordion-{acid}" class="clickable">
+          <b>{file}</b>
+        </a>
+      </h4>
+    </div>
+    <div class="panel-collapse collapse" id="accordion-{acid}" role="tabpanel" aria-labelledby="heading-{acid}">
+        <div class="panel-body">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th class="text-center">Type</th>
+                        <th class="text-center">Line</th>
+                        <th class="text-center">Column</th>
+                        <th>Evidence</th>
+                        <th>Reason</th>
+                        <th>Rule</th>
+                        <th>Docs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {items}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

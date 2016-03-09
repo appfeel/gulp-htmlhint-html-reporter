@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      "gulp-htmlhint-html-reporter",
+      "/Users/mmgadmin/Clients/HeyGo"
+    ]
+  ],
+  "_from": "gulp-htmlhint-html-reporter@latest",
+  "_id": "gulp-htmlhint-html-reporter@0.1.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-htmlhint-html-reporter",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "email": "miqmago@gmail.com",
+    "name": "miqmago"
+  },
+  "_npmVersion": "2.10.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-htmlhint-html-reporter",
+    "raw": "gulp-htmlhint-html-reporter",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-htmlhint-html-reporter/-/gulp-htmlhint-html-reporter-0.1.3.tgz",
+  "_shasum": "34a1cf33edb84dbdaeac564226c22834b5b3b4b8",
+  "_shrinkwrap": null,
+  "_spec": "gulp-htmlhint-html-reporter",
+  "_where": "/Users/mmgadmin/Clients/HeyGo",
+  "author": {
+    "email": "miqmago@gmail.com",
+    "name": "Miquel Martin"
+  },
+  "bugs": {
+    "url": "https://github.com/miqmago/gulp-htmlhint-html-reporter/issues"
+  },
+  "dependencies": {},
+  "description": "Simple generator of HTML report for gulp-htmlhint that writes its output to a html file which looks pretty",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "34a1cf33edb84dbdaeac564226c22834b5b3b4b8",
+    "tarball": "http://registry.npmjs.org/gulp-htmlhint-html-reporter/-/gulp-htmlhint-html-reporter-0.1.3.tgz"
+  },
+  "files": [
+    "index.js",
+    "reporter.js",
+    "templates/"
+  ],
+  "gitHead": "dfc7c47374c75fa24829d2d457e5ebb1996ed6af",
+  "homepage": "https://github.com/miqmago/gulp-htmlhint-html-reporter",
+  "keywords": [
+    "gulp",
+    "jshint",
+    "reporter",
+    "html-reporter"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "miqmago@gmail.com",
+      "name": "miqmago"
+    }
+  ],
+  "name": "gulp-htmlhint-html-reporter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miqmago/gulp-htmlhint-html-reporter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
