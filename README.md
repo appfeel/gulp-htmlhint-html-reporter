@@ -42,7 +42,7 @@ If disabled and the given path contains folders which do not exist, an ENOENT er
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [AppFeel](https://github.com/appfeel)
+[MIT](http://opensource.org/licenses/MIT) © [AppFeel](https://appfeel.com)
 
 ## Release History
 
