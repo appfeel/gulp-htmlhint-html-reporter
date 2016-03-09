@@ -1,6 +1,6 @@
 {
   "name": "gulp-htmlhint-html-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple generator of HTML report for gulp-htmlhint that writes its output to a html file which looks pretty",
   "main": "index.js",
   "scripts": {
