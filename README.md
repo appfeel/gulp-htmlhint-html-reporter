@@ -46,4 +46,4 @@ If disabled and the given path contains folders which do not exist, an ENOENT er
 
 ## Release History
 
-* 0.1.0 Initial release
+* 1.0.0 Initial release
