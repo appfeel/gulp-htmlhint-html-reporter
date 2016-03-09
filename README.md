@@ -1,7 +1,7 @@
 gulp-htmlhint-html-reporter
 ====================
 
-A simple reporter for gulp-htmlhint that writes it's output to a html file which looks pretty.
+A simple reporter for [gulp-htmlhint](https://www.npmjs.com/package/gulp-htmlhint) that writes it's output to a html file which looks pretty.
 
 ## Installation
 
